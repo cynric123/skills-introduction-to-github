@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+:keyboard: Activity: Create a pull request	.github/steps/3-open-a-pull-request.md	/^### :keyboard: Activity: Create a pull request$/;"	t
+:keyboard: Activity: Merge the pull request	.github/steps/4-merge-your-pull-request.md	/^### :keyboard: Activity: Merge the pull request$/;"	t
+:keyboard: Activity: Your first branch	.github/steps/1-create-a-branch.md	/^### :keyboard: Activity: Your first branch$/;"	t
+:keyboard: Activity: Your first commit	.github/steps/2-commit-a-file.md	/^### :keyboard: Activity: Your first commit$/;"	t
+What's next?	.github/steps/X-finish.md	/^### What's next?$/;"	t
+What's next?	README.md	/^### What's next?$/;"	t
